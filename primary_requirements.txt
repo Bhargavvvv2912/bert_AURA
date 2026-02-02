@@ -1,0 +1,2 @@
+# Exact requirement from Google-Research/BERT
+tensorflow>=1.11.0
